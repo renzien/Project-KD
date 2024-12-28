@@ -38,6 +38,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Ground
+    uniqueID: 4025572027
+    locked: 0
+  - name: Decoration
+    uniqueID: 2368970285
+    locked: 0
+  - name: Stone
+    uniqueID: 1207147121
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1061225637
     locked: 0
