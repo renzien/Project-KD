@@ -47,9 +47,15 @@ TagManager:
   - name: Stone
     uniqueID: 1207147121
     locked: 0
+  - name: Tree
+    uniqueID: 1983084423
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
   - name: Player
     uniqueID: 1061225637
+    locked: 0
+  - name: Non-Collision
+    uniqueID: 3291600681
     locked: 0
